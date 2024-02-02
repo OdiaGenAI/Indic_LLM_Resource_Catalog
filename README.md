@@ -4,8 +4,9 @@ The purpose of this catalog is to help researchers looking for Indic LLM resourc
 Table of Contents
 =================
 * [Instruction Set](#instruction-set)
+* [Foundation LLM](#foundation-llm)
 * [Fine-Tuned LLM](#fine-tuned-llm)
-* [Pre-trained LLM](#pre-trained-llm)
+
 
 ### Instruction Set
 #### Odia
@@ -19,6 +20,11 @@ Table of Contents
 * <a href="https://huggingface.co/datasets/OdiaGenAI/hindi_alpaca_dolly_67k_formatted">hindi_alpaca_dolly_67k_formatted</a>: This dataset is translated from open-source Alpaca_Dolly instruction sets.
 * <a href="https://huggingface.co/datasets/OdiaGenAI/instruction_set_hindi_1035">instruction_set_hindi_1035</a>: The dataset has been created using OliveFarm web application.
 The domains have been covered in this dataset are: Art, Sports (Cricket, Football, Olympics), Politics, History, Cooking, Environment, Music
+
+### Foundation LLM
+
+#### Hindi
+* <a href="https://huggingface.co/sarvamai/OpenHathi-7B-Hi-v0.1-Base">OpenHathi-7B-Hi-v0.1-Base</a>: This is a 7B parameter, based on Llama2, trained on Hindi, English, and Hinglish. As per the authors, this is a base model and is not meant to be used as is. Recommend to first fine-tune the interested task(s).<a href="https://www.sarvam.ai/blog/announcing-openhathi-series">Blog</a>
 
 ### Fine-Tuned LLM
 
