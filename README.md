@@ -6,6 +6,7 @@ Table of Contents
 * [Instruction Set](#instruction-set)
 * [Foundation LLM](#foundation-llm)
 * [Fine-Tuned LLM](#fine-tuned-llm)
+* [Benchmarking Set](#benchmarking-set)
 
 
 ### Instruction Set
@@ -40,4 +41,6 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 
 #### Bengali
 * <a href="https://huggingface.co/OdiaGenAI/odiagenAI-bengali-base-model-v1">odiagenAI-bengali-base-model-v1</a>: odiagenAI-bengali-base-model-v1 is based on Llama-7b and finetuned with 252k Bengali instruction set. The instruction set is translated data from open-source resources, resulting in good Bengali instruction understanding and response generation capabilities.
+
+### Benchmarking Set
 
