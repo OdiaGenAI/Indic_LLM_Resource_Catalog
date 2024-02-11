@@ -47,6 +47,9 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 * <a href="https://huggingface.co/OdiaGenAI/odiagenAI-bengali-base-model-v1">odiagenAI-bengali-base-model-v1</a>: odiagenAI-bengali-base-model-v1 is based on Llama-7b and finetuned with 252k Bengali instruction set. The instruction set is translated data from open-source resources, resulting in good Bengali instruction understanding and response generation capabilities.
 
 ### Benchmarking Set
+* <a href="https://huggingface.co/collections/ai4bharat/airavata-evaluation-suite-65b13b7b68165de71ba0b333">Airavata Evaluation Suite</a>: A collection of benchmarks used for evaluation of Airavata, a Hindi instruction-tuned model on top of Sarvam's OpenHathi base model.
+* <a href="https://huggingface.co/Indic-Benchmark">Indic LLM Benchmark</a>: A collection of LLM benchmark data in Gujurati, Nepali, Malayalam, Hindi, Telugu, Marathi, Kannada, Bengali.
+
 
 Citation:
 
