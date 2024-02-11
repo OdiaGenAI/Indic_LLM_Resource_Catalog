@@ -29,7 +29,6 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 
 #### Kannada
 * <a href="https://huggingface.co/datasets/Tensoic/airoboros-3.2_kn">airoboros-3.2_kn</a>: This dataset contains 35.5k number of Kannada instruction (input, instruction, output) sets.
-* 
 
 ### Foundation LLM
 
