@@ -44,3 +44,28 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 
 ### Benchmarking Set
 
+Citation:
+
+If you find this repository useful, please consider giving ⭐ and citing:
+
+```
+@misc{Indic_LLM_Resources,
+  author = {Shantipriya Parida},
+  title = {Indic LLM Resource Catalog},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/shantipriyap/Indic_LLM_Resource_Catalog}},
+}
+```
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
