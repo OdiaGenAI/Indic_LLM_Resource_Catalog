@@ -1,7 +1,9 @@
 # A Catalog for Indic LLM Resources
 The purpose of this catalog is to help researchers looking for Indic LLM resources. This is a collective effort and any contribution to enriching Indic LLM resources is welcome. All contributors are listed on the <a href="https://github.com/shantipriyap/IndicLLM_Resource_Catalog/blob/main/CONTRIBUTORS.md">CONTRIBUTOR</a> list. 
 
+<p align="center">
 <img src="https://github.com/shantipriyap/Indic_LLM_Resource_Catalog/blob/main/magnifying-glass-7544299_1280.png" alt="llm_resource_catalog" width="250"/>
+</p>
 
 Table of Contents
 =================
