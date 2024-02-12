@@ -7,10 +7,14 @@ The purpose of this catalog is to help researchers looking for Indic LLM resourc
 
 Table of Contents
 =================
-* [Instruction Set](#instruction-set)
-* [Foundation LLM](#foundation-llm)
-* [Fine-Tuned LLM](#fine-tuned-llm)
-* [Benchmarking Set](#benchmarking-set)
+- [1. Instruction Set](#instruction-set)
+  * [1.1 Odia] (#odia)
+  * [1.2 Bengali] (#bengali)
+  * [1.3 Hindi] (#hindi)
+  * [1.4 Kannada] (#kannada)     
+- [2. Foundation LLM](#foundation-llm)
+- [3. Fine-Tuned LLM](#fine-tuned-llm)
+- [4. Benchmarking Set](#benchmarking-set)
 
 
 ### Instruction Set
