@@ -8,30 +8,30 @@ The purpose of this catalog is to help researchers looking for Indic LLM resourc
 Table of Contents
 =================
 - [1. Instruction Set](#instruction-set)
-  * [1.1 Odia] (#odia)
-  * [1.2 Bengali] (#bengali)
-  * [1.3 Hindi] (#hindi)
-  * [1.4 Kannada] (#kannada)     
+  * [1.1 Odia](#odia)
+  * [1.2 Bengali](#bengali)
+  * [1.3 Hindi](#hindi)
+  * [1.4 Kannada](#kannada)     
 - [2. Foundation LLM](#foundation-llm)
 - [3. Fine-Tuned LLM](#fine-tuned-llm)
 - [4. Benchmarking Set](#benchmarking-set)
 
 
-### Instruction Set
-#### Odia
+## Instruction Set
+### Odia
 * <a href="https://huggingface.co/datasets/OdiaGenAI/odia_master_data_llama2">odia_master_data_llama2</a>: This dataset contains 180k Odia instruction sets translated from open-source instruction sets and Odia domain knowledge instruction sets.
 * <a href="https://huggingface.co/datasets/OdiaGenAI/odia_context_10K_llama2_set">odia_context_10k_llama2_set</a>: This dataset contains 10K instructions that span various facets of Odisha's unique identity. The instructions cover a wide array of subjects, ranging from the culinary delights in 'RECIPES,' the historical significance of 'HISTORICAL PLACES,' and 'TEMPLES OF ODISHA,' to the intellectual pursuits in 'ARITHMETIC,' 'HEALTH,' and 'GEOGRAPHY.' It also explores the artistic tapestry of Odisha through 'ART AND CULTURE,' which celebrates renowned figures in 'FAMOUS ODIA POETS/WRITERS', and 'FAMOUS ODIA POLITICAL LEADERS'. Furthermore, it encapsulates 'SPORTS' and the 'GENERAL KNOWLEDGE OF ODISHA,' providing an all-encompassing representation of the state.
 
-#### Bengali
+### Bengali
 * <a href="https://huggingface.co/datasets/OdiaGenAI/all_combined_bengali_252k">all_combined_bengali_252K</a>: This dataset is a mix of Bengali instruction sets translated from open-source instruction sets: Dolly, Alpaca, ChatDoctor, Roleplay, and GSM.
 
-#### Hindi
+### Hindi
 * <a href="https://huggingface.co/datasets/OdiaGenAI/hindi_alpaca_dolly_67k_formatted">hindi_alpaca_dolly_67k_formatted</a>: This dataset is translated from open-source Alpaca_Dolly instruction sets.
 * <a href="https://huggingface.co/datasets/OdiaGenAI/instruction_set_hindi_1035">instruction_set_hindi_1035</a>: The dataset has been created using OliveFarm web application.
 The domains that have been covered in this dataset are Art, Sports (Cricket, Football, Olympics), Politics, History, Cooking, Environment, and Music.
 * <a href="https://huggingface.co/datasets/OdiaGenAI/roleplay_hindi">roleplay_hindi</a>: The dataset contains 1k Hindi roleplay instruction set.
 
-#### Kannada
+### Kannada
 * <a href="https://huggingface.co/datasets/Tensoic/airoboros-3.2_kn">airoboros-3.2_kn</a>: This dataset contains 35.5k number of Kannada instruction (input, instruction, output) sets.
 
 ### Foundation LLM
