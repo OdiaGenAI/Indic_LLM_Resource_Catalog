@@ -15,9 +15,9 @@ Table of Contents
 - [2. Foundation LLM](#foundation-llm)
   * [2.1 Hindi](#hindi)  
 - [3. Fine-Tuned LLM](#fine-tuned-llm)
- * [3.1 Odia](#odia)
- * [3.2 Hindi](#hindi)
- * [3.3 Bengali](#bengali)   
+  * [3.1 Odia](#odia)
+  * [3.2 Hindi](#hindi)
+  * [3.3 Bengali](#bengali)   
 - [4. Benchmarking Set](#benchmarking-set)
 
 
