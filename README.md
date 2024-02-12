@@ -13,7 +13,11 @@ Table of Contents
   * [1.3 Hindi](#hindi)
   * [1.4 Kannada](#kannada)     
 - [2. Foundation LLM](#foundation-llm)
+  * [2.1 Hindi](#hindi)  
 - [3. Fine-Tuned LLM](#fine-tuned-llm)
+ * [3.1 Odia](#odia)
+ * [3.2 Hindi](#hindi)
+ * [3.3 Bengali](#bengali)   
 - [4. Benchmarking Set](#benchmarking-set)
 
 
@@ -34,20 +38,20 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 ### Kannada
 * <a href="https://huggingface.co/datasets/Tensoic/airoboros-3.2_kn">airoboros-3.2_kn</a>: This dataset contains 35.5k number of Kannada instruction (input, instruction, output) sets.
 
-### Foundation LLM
+## Foundation LLM
 
-#### Hindi
+### Hindi
 * <a href="https://huggingface.co/sarvamai/OpenHathi-7B-Hi-v0.1-Base">OpenHathi-7B-Hi-v0.1-Base</a>: This is a 7B parameter, based on Llama2, trained on Hindi, English, and Hinglish. As per the authors, this is a base model and is not meant to be used as is. Recommend to first fine-tune the interested task(s).<a href="https://www.sarvam.ai/blog/announcing-openhathi-series">Blog</a>
 
-### Fine-Tuned LLM
+## Fine-Tuned LLM
 
-#### Odia
+### Odia
 * <a href="https://huggingface.co/OdiaGenAI/odia_llama2_7B_base">odia_llama2_7B_base</a>: odia_llama2_7B_base is based on Llama2-7b and finetuned with 180k Odia instruction set.<a href="https://arxiv.org/pdf/2312.12624.pdf">Paper</a>
 
-#### Hindi
+### Hindi
 * <a href="https://huggingface.co/OdiaGenAI/mistral_hindi_7b_base_v1">mistral_hindi_7b_base_v1 </a>: mistral_hindi_7b_base_v1 is based on Mistral_7b and finetuned with the Hindi instruction set.
 
-#### Bengali
+### Bengali
 * <a href="https://huggingface.co/OdiaGenAI/odiagenAI-bengali-base-model-v1">odiagenAI-bengali-base-model-v1</a>: odiagenAI-bengali-base-model-v1 is based on Llama-7b and finetuned with 252k Bengali instruction set. The instruction set is translated data from open-source resources, resulting in good Bengali instruction understanding and response generation capabilities.
 
 ### Benchmarking Set
@@ -61,7 +65,7 @@ If you find this repository useful, please consider giving ⭐ and citing:
 
 ```
 @misc{Indic_LLM_Resources,
-  author = {Shantipriya Parida},
+  author = {Shantipriya Parida and Sambit Sekhar},
   title = {Indic LLM Resource Catalog},
   year = {2024},
   publisher = {GitHub},
