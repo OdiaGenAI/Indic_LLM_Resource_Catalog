@@ -14,7 +14,8 @@ Table of Contents
   * [1.4 Kannada](#kannada)
   * [1.5 Indic](#indic)      
 - [2. Foundation LLM](#foundation-llm)
-  * [2.1 Hindi](#hindi)  
+  * [2.1 Hindi](#hindi)
+  * [2.2 Tamil](#tamil)
 - [3. Fine-Tuned LLM](#fine-tuned-llm)
   * [3.1 Odia](#odia)
   * [3.2 Hindi](#hindi)
@@ -40,12 +41,15 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 * <a href="https://huggingface.co/datasets/Tensoic/airoboros-3.2_kn">airoboros-3.2_kn</a>: This dataset contains 35.5k number of Kannada instruction (input, instruction, output) sets.
 
 ### Indic
-* <a href="https://huggingface.co/datasets/CohereForAI/aya_dataset">aya_dataset</a>: This dataset contains instruction sets in different Indic languages (Hindi, Tamil, Punjabi, Telugu, Marathi, Gujarati, Malayalam, Bengali) . <a href="https://arxiv.org/pdf/2402.06619.pdf">Paper</a>
+* <a href="https://huggingface.co/datasets/CohereForAI/aya_dataset">aya_dataset</a>: This dataset contains instruction sets in different Indic languages (Hindi, Tamil, Punjabi, Telugu, Marathi, Gujarati, Malayalam, Bengali). <a href="https://arxiv.org/pdf/2402.06619.pdf">Paper</a>
 
 ## Foundation LLM
 
 ### Hindi
 * <a href="https://huggingface.co/sarvamai/OpenHathi-7B-Hi-v0.1-Base">OpenHathi-7B-Hi-v0.1-Base</a>: This is a 7B parameter, based on Llama2, trained on Hindi, English, and Hinglish. As per the authors, this is a base model and is not meant to be used as is. Recommend to first fine-tune the interested task(s). <a href="https://www.sarvam.ai/blog/announcing-openhathi-series">Blog</a>
+
+### Tamil
+* <a href="https://huggingface.co/abhinand/tamil-llama-7b-base-v0.1">Tamil LLaMA 7B Base v0.1</a>: This is a 7B parameter model for Causal LM pre-trained on CulturaX dataset's Tamil subset. <a href="https://arxiv.org/pdf/2311.05845.pdf">Arxiv Paper</a>
 
 ## Fine-Tuned LLM
 
