@@ -1,5 +1,5 @@
 # A Catalog for Indic LLM Resources
-The aim of this catalog is to assist researchers seeking Indic LLM resources. It's a collaborative endeavor, and any input to enhance the collection of Indic LLM resources is appreciated. All contributors are acknowledged on the <a href="https://github.com/shantipriyap/IndicLLM_Resource_Catalog/blob/main/CONTRIBUTORS.md">CONTRIBUTOR</a> list. 
+This catalog aims to assist researchers seeking Indic LLM resources. It's a collaborative endeavor, and any input to enhance the collection of Indic LLM resources is appreciated. All contributors are acknowledged on the <a href="https://github.com/shantipriyap/IndicLLM_Resource_Catalog/blob/main/CONTRIBUTORS.md">CONTRIBUTOR</a> list. 
 
 <p align="center">
 <img src="https://github.com/shantipriyap/Indic_LLM_Resource_Catalog/blob/main/magnifying-glass-7544299_1280.png" alt="llm_resource_catalog" width="250"/>
@@ -11,7 +11,8 @@ Table of Contents
   * [1.1 Odia](#odia)
   * [1.2 Bengali](#bengali)
   * [1.3 Hindi](#hindi)
-  * [1.4 Kannada](#kannada)     
+  * [1.4 Kannada](#kannada)
+  * [1.5 Indic](#indic)      
 - [2. Foundation LLM](#foundation-llm)
   * [2.1 Hindi](#hindi)  
 - [3. Fine-Tuned LLM](#fine-tuned-llm)
