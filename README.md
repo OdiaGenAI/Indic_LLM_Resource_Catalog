@@ -41,18 +41,18 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 ## Foundation LLM
 
 ### Hindi
-* <a href="https://huggingface.co/sarvamai/OpenHathi-7B-Hi-v0.1-Base">OpenHathi-7B-Hi-v0.1-Base</a>: This is a 7B parameter, based on Llama2, trained on Hindi, English, and Hinglish. As per the authors, this is a base model and is not meant to be used as is. Recommend to first fine-tune the interested task(s).<a href="https://www.sarvam.ai/blog/announcing-openhathi-series">Blog</a>
+* <a href="https://huggingface.co/sarvamai/OpenHathi-7B-Hi-v0.1-Base">OpenHathi-7B-Hi-v0.1-Base</a>: This is a 7B parameter, based on Llama2, trained on Hindi, English, and Hinglish. As per the authors, this is a base model and is not meant to be used as is. Recommend to first fine-tune the interested task(s). <a href="https://www.sarvam.ai/blog/announcing-openhathi-series">Blog</a>
 
 ## Fine-Tuned LLM
 
 ### Odia
-* <a href="https://huggingface.co/OdiaGenAI/odia_llama2_7B_base">odia_llama2_7B_base</a>: odia_llama2_7B_base is based on Llama2-7b and finetuned with 180k Odia instruction set.<a href="https://arxiv.org/pdf/2312.12624.pdf">Paper</a>
+* <a href="https://huggingface.co/OdiaGenAI/odia_llama2_7B_base">odia_llama2_7B_base</a>: odia_llama2_7B_base is based on Llama2-7b and finetuned with 180k Odia instruction set. <a href="https://arxiv.org/pdf/2312.12624.pdf">Paper</a>
 
 ### Hindi
 * <a href="https://huggingface.co/OdiaGenAI/mistral_hindi_7b_base_v1">mistral_hindi_7b_base_v1 </a>: mistral_hindi_7b_base_v1 is based on Mistral_7b and finetuned with the Hindi instruction set.
 
 ### Bengali
-* <a href="https://huggingface.co/OdiaGenAI/odiagenAI-bengali-base-model-v1">odiagenAI-bengali-base-model-v1</a>: odiagenAI-bengali-base-model-v1 is based on Llama-7b and finetuned with 252k Bengali instruction set. The instruction set is translated data from open-source resources, resulting in good Bengali instruction understanding and response generation capabilities.
+* <a href="https://huggingface.co/OdiaGenAI/odiagenAI-bengali-base-model-v1">odiagenAI-bengali-base-model-v1</a>: odiagenAI-bengali-base-model-v1 is based on Llama-7b and finetuned with 252k Bengali instruction set. The instruction set is translated data from open-source resources, resulting in good Bengali instruction understanding and response generation capabilities. <a href="https://www.odiagenai.org/blog/odiagenai-released-an-instruction-following-llama-model-for-bengali">Blog</a>
 
 ### Benchmarking Set
 * <a href="https://huggingface.co/collections/ai4bharat/airavata-evaluation-suite-65b13b7b68165de71ba0b333">Airavata Evaluation Suite</a>: A collection of benchmarks used for evaluation of Airavata, a Hindi instruction-tuned model on top of Sarvam's OpenHathi base model.
