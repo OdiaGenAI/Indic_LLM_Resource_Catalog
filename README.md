@@ -38,6 +38,9 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 ### Kannada
 * <a href="https://huggingface.co/datasets/Tensoic/airoboros-3.2_kn">airoboros-3.2_kn</a>: This dataset contains 35.5k number of Kannada instruction (input, instruction, output) sets.
 
+### Indic
+* <a href="https://huggingface.co/datasets/CohereForAI/aya_dataset">aya_dataset</a>: This dataset contains instruction sets in different Indic languages (Hindi, Tamil, Punjabi, Telugu, Marathi, Gujarati, Malayalam, Bengali) . <a href="https://arxiv.org/pdf/2402.06619.pdf">Paper</a>
+
 ## Foundation LLM
 
 ### Hindi
