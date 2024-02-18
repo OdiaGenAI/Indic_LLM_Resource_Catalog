@@ -13,14 +13,16 @@ Table of Contents
   * [1.3 Hindi](#hindi)
   * [1.4 Kannada](#kannada)
   * [1.5 Indic](#indic)      
-- [2. Foundation LLM](#foundation-llm)
-  * [2.1 Hindi](#hindi)
-  * [2.2 Tamil](#tamil)
-- [3. Fine-Tuned LLM](#fine-tuned-llm)
-  * [3.1 Odia](#odia)
-  * [3.2 Hindi](#hindi)
-  * [3.3 Bengali](#bengali)   
-- [4. Benchmarking Set](#benchmarking-set)
+- [2. Pre-train Dataset](#pre-train-data-set)
+  * [2.1 Indic](#indic)
+- [3. Foundation LLM](#foundation-llm)
+  * [3.1 Hindi](#hindi)
+  * [3.2 Tamil](#tamil)
+- [4. Fine-Tuned LLM](#fine-tuned-llm)
+  * [4.1 Odia](#odia)
+  * [4.2 Hindi](#hindi)
+  * [4.3 Bengali](#bengali)   
+- [5. Benchmarking Set](#benchmarking-set)
 
 
 ## Instruction Set
@@ -43,6 +45,10 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 
 ### Indic
 * <a href="https://huggingface.co/datasets/CohereForAI/aya_dataset">aya_dataset</a>: This dataset contains instruction sets in different Indic languages (Hindi, Tamil, Punjabi, Telugu, Marathi, Gujarati, Malayalam, Bengali). <a href="https://arxiv.org/pdf/2402.06619.pdf">Paper</a>
+
+## Pe-train Dataset
+### Indic
+* <a href="https://huggingface.co/datasets/uonlp/CulturaX">CulturaX</a>: It is multilingual dataset contains monolingual data for several Indic languages (Hindi, Bangla, Tamil, Malayalam, Marathi, Telugu, Kannada, Gujarti, Punjabi, Odia, Assamese, etc.)
 
 ## Foundation LLM
 
