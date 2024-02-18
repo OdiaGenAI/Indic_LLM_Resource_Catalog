@@ -36,6 +36,7 @@ Table of Contents
 * <a href="https://huggingface.co/datasets/OdiaGenAI/instruction_set_hindi_1035">instruction_set_hindi_1035</a>: The dataset has been created using OliveFarm web application.
 The domains that have been covered in this dataset are Art, Sports (Cricket, Football, Olympics), Politics, History, Cooking, Environment, and Music.
 * <a href="https://huggingface.co/datasets/OdiaGenAI/roleplay_hindi">roleplay_hindi</a>: The dataset contains 1k Hindi roleplay instruction set.
+* <a href="https://huggingface.co/datasets/OdiaGenAI/sentiment_analysis_hindi">sentiment_analysis_hindi</a>: This dataset contains 2.5K Hindi sentiment analysis instruction set.
 
 ### Kannada
 * <a href="https://huggingface.co/datasets/Tensoic/airoboros-3.2_kn">airoboros-3.2_kn</a>: This dataset contains 35.5k number of Kannada instruction (input, instruction, output) sets.
