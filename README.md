@@ -48,7 +48,8 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 
 ## Pe-train Dataset
 ### Indic
-* <a href="https://huggingface.co/datasets/uonlp/CulturaX">CulturaX</a>: It is multilingual dataset contains monolingual data for several Indic languages (Hindi, Bangla, Tamil, Malayalam, Marathi, Telugu, Kannada, Gujarti, Punjabi, Odia, Assamese, etc.)
+* <a href="https://huggingface.co/datasets/uonlp/CulturaX">CulturaX</a>: It is a multilingual dataset contains monolingual data for several Indic languages (Hindi, Bangla, Tamil, Malayalam, Marathi, Telugu, Kannada, Gujarati, Punjabi, Odia, Assamese, etc.). <a href="https://arxiv.org/abs/2309.09400">Paper</a>
+* * <a href="https://huggingface.co/datasets/rahular/varta">varta</a>: The dataset contains 41.8 million news articles in 14 Indic languages and English, crawled from DailyHunt, a popular news aggregator in India that pulls high-quality articles from multiple trusted and reputed news publishers.
 
 ## Foundation LLM
 
