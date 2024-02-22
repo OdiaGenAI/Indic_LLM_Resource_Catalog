@@ -18,6 +18,7 @@ Table of Contents
 - [3. Foundation LLM](#foundation-llm)
   * [3.1 Hindi](#hindi)
   * [3.2 Tamil](#tamil)
+  * [3.3 Marathi](#marathi)
 - [4. Fine-Tuned LLM](#fine-tuned-llm)
   * [4.1 Odia](#odia)
   * [4.2 Hindi](#hindi)
