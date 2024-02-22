@@ -59,6 +59,9 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 ### Tamil
 * <a href="https://huggingface.co/abhinand/tamil-llama-7b-base-v0.1">Tamil LLaMA 7B Base v0.1</a>: This is a 7B parameter model for Causal LM pre-trained on CulturaX dataset's Tamil subset. <a href="https://arxiv.org/pdf/2311.05845.pdf">Arxiv Paper</a>
 
+### Marathi
+* <a href="https://huggingface.co/marathi-llm/MahaMarathi-7B-v24.01-Base">MahaMarathi-7B-v24.01-Base</a>: This is a domain adapted, continually pre-trained, and instruction fine-tuned native Marathi large language model (LLM) with 7 billion parameters based on Llama2+Mistral, and trained on a large corpus of Marathi text. As per the authors, it is a model is a base model and not meant to be used as is. It is recommended to first finetune it on downstream tasks.
+
 ## Fine-Tuned LLM
 
 ### Odia
