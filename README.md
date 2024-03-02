@@ -19,6 +19,7 @@ Table of Contents
   * [3.1 Hindi](#hindi)
   * [3.2 Tamil](#tamil)
   * [3.3 Marathi](#marathi)
+  * [3.4 Odia](#odia)
 - [4. Fine-Tuned LLM](#fine-tuned-llm)
   * [4.1 Odia](#odia)
   * [4.2 Hindi](#hindi)
@@ -62,6 +63,9 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 
 ### Marathi
 * <a href="https://huggingface.co/marathi-llm/MahaMarathi-7B-v24.01-Base">MahaMarathi-7B-v24.01-Base</a>: This is a domain adapted, continually pre-trained, and instruction fine-tuned native Marathi large language model (LLM) with 7 billion parameters based on Llama2+Mistral, and trained on a large corpus of Marathi text. As per the authors, it is a model is a base model and not meant to be used as is. It is recommended to first finetune it on downstream tasks.
+
+### Odia
+* <a href="https://huggingface.co/OdiaGenAI-LLM/qwen_1.5_odia_7b">Qwen_1.5_Odia_7B</a>: This is a pre-trained Odia large language model with 7 billion parameters, and it is based on Qwen 1.5-7B. The model is pre-trained on the Culturex-Odia dataset, a filtered version of the original CulturaX dataset for Odia text. As per the authors, it is a model is a base model and not meant to be used as is. It is recommended to first finetune it on downstream tasks. <a href="https://www.odiagenai.org/blog/introducing-odiagenai-s-qwen-based-pre-trained-llm-for-odia-language">Blog</a>
 
 ## Fine-Tuned LLM
 
