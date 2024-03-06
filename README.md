@@ -12,7 +12,9 @@ Table of Contents
   * [1.2 Bengali](#bengali)
   * [1.3 Hindi](#hindi)
   * [1.4 Kannada](#kannada)
-  * [1.5 Indic](#indic)      
+  * [1.5 Punjabi](#punjabi)
+  * [1.6 Telugu](#telugu)
+  * [1.7 Indic](#indic)      
 - [2. Pre-train Dataset](#pre-train-data-set)
   * [2.1 Indic](#indic)
 - [3. Foundation LLM](#foundation-llm)
@@ -44,6 +46,12 @@ The domains that have been covered in this dataset are Art, Sports (Cricket, Foo
 
 ### Kannada
 * <a href="https://huggingface.co/datasets/Tensoic/airoboros-3.2_kn">airoboros-3.2_kn</a>: This dataset contains 35.5k number of Kannada instruction (input, instruction, output) sets.
+
+### Punjabi
+* <a href="https://huggingface.co/datasets/HydraIndicLM/punjabi_alpaca_52K">punjabi_alpaca_52K</a>: This dataset contains 52k number of Punjabi instruction (input, instruction, output) sets translated from Alpaca.
+
+### Telugu
+* <a href="https://huggingface.co/datasets/HydraIndicLM/telgu_alpaca_dolly_67k">telgu_alpaca_dolly_67k</a>: This dataset contains 67k number of Telugu instruction (input, instruction, output) sets translated from Alpaca and Dolly.
 
 ### Indic
 * <a href="https://huggingface.co/datasets/CohereForAI/aya_dataset">aya_dataset</a>: This dataset contains instruction sets in different Indic languages (Hindi, Tamil, Punjabi, Telugu, Marathi, Gujarati, Malayalam, Bengali). <a href="https://arxiv.org/pdf/2402.06619.pdf">Paper</a>
